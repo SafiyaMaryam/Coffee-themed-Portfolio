@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3f3568de.css",
-    "main.js": "/portfolio/static/js/main.86a19cf6.js",
-    "static/js/453.a7d99afe.chunk.js": "/portfolio/static/js/453.a7d99afe.chunk.js",
-    "index.html": "/portfolio/index.html",
-    "main.3f3568de.css.map": "/portfolio/static/css/main.3f3568de.css.map",
-    "main.86a19cf6.js.map": "/portfolio/static/js/main.86a19cf6.js.map",
-    "453.a7d99afe.chunk.js.map": "/portfolio/static/js/453.a7d99afe.chunk.js.map"
+    "main.css": "/Coffee-themed-Portfolio/static/css/main.3f3568de.css",
+    "main.js": "/Coffee-themed-Portfolio/static/js/main.e0243fa4.js",
+    "static/js/453.a7d99afe.chunk.js": "/Coffee-themed-Portfolio/static/js/453.a7d99afe.chunk.js",
+    "index.html": "/Coffee-themed-Portfolio/index.html",
+    "main.3f3568de.css.map": "/Coffee-themed-Portfolio/static/css/main.3f3568de.css.map",
+    "main.e0243fa4.js.map": "/Coffee-themed-Portfolio/static/js/main.e0243fa4.js.map",
+    "453.a7d99afe.chunk.js.map": "/Coffee-themed-Portfolio/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f3568de.css",
-    "static/js/main.86a19cf6.js"
+    "static/js/main.e0243fa4.js"
   ]
 }
